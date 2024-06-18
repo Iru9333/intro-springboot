@@ -28,7 +28,7 @@ public class Hello {
 //		objPersona = new Persona("Carlos", "Perez","0L4241","cperez@gmail.com",617263623);
 //		objPersona2 = new Persona("Maria", "Perez","0L4241","cperez@gmail.com",617263623);
 //		objPersona3 = new Persona("Paula", "Perez","0L4241","cperez@gmail.com",617263623);
-		listaPersona = new ArrayList <>();
+		listaPersona = new ArrayList<>();
 		persona.setNombre("Ramon");
 		persona.setApellido("Sanchez");
 		persona.setDni("L232323");
