@@ -30,8 +30,7 @@ public class PersonalServiceImpl implements PersonaService{
 			lista.add(objPersona);
 			lista.add(objPersona2);
 			lista.add(objPersona3);
-			
-			
+		
 		}
 		return lista;
 	}	
