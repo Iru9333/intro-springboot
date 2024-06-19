@@ -4,23 +4,23 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Persona {
-	
+
 	private String nombre;
 	private String apellido;
 	private String dni;
 	private String email;
 	private int telefono;
 	
-	public Persona(String nombre, String apellido, String dni, String email, long telefono) {
-		super();
+	public Persona() {
+		
+	}
+	
+	public Persona(String nombre, String apellido, String dni, String email,int telefono) {
 		this.nombre = nombre;
 		this.apellido = apellido;
 		this.dni = dni;
 		this.email = email;
-		this.telefono = (int) telefono;
-		
-		
-	
+		this.telefono = telefono;
 	}
 
 	public String getNombre() {
@@ -64,5 +64,4 @@ public class Persona {
 	}
 	
 	
-
 }
