@@ -1,0 +1,10 @@
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Jose","Perez","jp@gmail.com","2024-06-20",658232323);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Kiyotaka","Ayanokoji","ka@gmail.com","2024-06-20",656235323);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Michael","Jordan","mj23@gmail.com","2024-06-20",647849029);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Roronoa","Zoro","rz@gmail.com","2024-06-20",628537621);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Monkey D.","Luffy","mdl@gmail.com","2024-06-20",623420921);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Enrique","Diaz","ed@gmail.com","2024-06-20",678001145);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Satoru","Gojo","sg@gmail.com","2024-06-20",658219412);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Ryomen","Sukuna","rs@gmail.com","2024-06-20",650929292);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Nico","Robin","nr@gmail.com","2024-06-20",678937616);
+INSERT INTO cliente (nombre,apellido,email,fecha_creacion,telefono) VALUES ("Megumi","Fushiguro","jp@gmail.com","2024-06-20",658427162);
